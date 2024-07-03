@@ -1,4 +1,5 @@
-
+import React from 'react'
+import Map from './Map'
 import './App.css'
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-      
+      <Map />
     </>
   )
 }
